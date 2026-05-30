@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnpm-store/
+
+# Editor/OS Files
+.DS_Store
+.vscode/
+
+# Build artifacts
+dist/
+build/
